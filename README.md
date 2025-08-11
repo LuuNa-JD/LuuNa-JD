@@ -1,4 +1,4 @@
-![Bannière](https://via.placeholder.com/1200x300.png?text=Julien+Denizot+-+Développeur+Logiciel+%7C+Sant%C3%A9+Num%C3%A9rique+%7C+Cloud+Souverain)
+![Bannière](https://raw.githubusercontent.com/LuuNa-JD/LuuNa-JD/refs/heads/main/banniere-jd.png)
 
 # 👋 Bonjour, je suis **Julien Denizot**  
 💻 Développeur Logiciel *(Rust/Python)* | 🩺 Expert en Santé Numérique | ☁️ Architecte Cloud Souverain  

@@ -1,66 +1,110 @@
-![Bannière](https://raw.githubusercontent.com/LuuNa-JD/LuuNa-JD/refs/heads/main/banniere-jd.png)
+![Banner](./banner-julien-denizot.png)
 
-# 👋 Bonjour, je suis **Julien Denizot**  
-💻 Développeur Logiciel *(Rust/Python)* | 🩺 Expert en Santé Numérique | ☁️ Architecte Cloud Souverain  
+# Hi, I'm Julien
 
----
+**Rust Systems Engineer**  
+*Edge · Embedded · Local AI · Healthcare*
 
-## 🚀 À propos de moi  
-Passionné par la **santé numérique** et la **souveraineté technologique**, je conçois des solutions logicielles **sécurisées**, **performantes** et **interopérables** (HL7/FHIR) pour les professionnels de santé et les environnements critiques.  
-Mon objectif : **devenir le meilleur expert français en santé numérique**.  
+I build software and systems that connect code to the real world.
 
-Dès **octobre 2025**, je partagerai mon expertise en tant que **formateur en santé numérique** dans l’enseignement supérieur.
+My interests sit at the intersection of **Rust**, **Linux**, **embedded systems**, **edge infrastructure**, **local AI**, and **healthcare technology**. I like working on things that are fast, reliable, useful, and close to the field — from backend services and on-prem inference to hardware integration and real-world deployment.
 
 ---
 
-## 🛠️ Compétences techniques  
+## What I’m into
 
-**Langages :**  
-🦀 Rust • 🐍 Python • JavaScript
-
-**Frameworks & Outils :**  
-FastAPI • Axum • Django • Ruby on Rails • Bootstrap  
-
-**Cloud & DevOps :**  
-Proxmox • Docker • Traefik • OVH Cloud • Netmaker • VPN sécurisé  
-
-**Santé numérique :**  
-HL7 • FHIR • DICOM • RGPD • HDS  
-
-**Data & MLOps :**  
-PostgreSQL • NoSQL • IPFS • Apache Kafka • Candle • Burn • HuggingFace  
+- Rust backend and systems programming
+- Edge and on-prem infrastructure
+- Embedded / IoT systems
+- Local AI and inference
+- Real-time communication
+- Healthcare and interoperable systems
+- Projects involving both software and hardware
 
 ---
 
-## 🌟 Projets phares  
+## A bit about me
 
-### 🔹 OrbitNet *(privé)* 
-> **Plateforme de souveraineté numérique** pour la santé et les services IT.  
-> 🔒 Cloud sécurisé | 📊 Interopérabilité HL7/FHIR | 🏥 Santé numérique  
+My background is unusual on purpose.
 
----
+Before moving into software and systems engineering, I worked in **orthotics**, which gave me a strong connection to real users, real constraints, and real-world problem solving. Today, I bring that same mindset into engineering: build things that are technically solid, physically deployable, and actually useful.
 
-### 🔹 Logiciel d’aide à la décision en orthopédie *(privé)*  
-> Application médicale pour recommander l’appareillage optimal selon des critères cliniques.  
+I’m especially interested in systems that leave the screen:  
+**devices, sensors, readers, edge nodes, local servers, field deployment, and critical workflows**.
 
 ---
 
-### 🔹 [CinéSelect](https://github.com/LuuNa-JD/cineselect)  
-> Application web mobile (PWA) pour trouver le film ou la série parfaite selon vos critères et plateformes de streaming.  
+## Things I build
+
+### Real-time systems
+Backend services in Rust with fast decision loops, device communication, and production-oriented reliability.
+
+### Edge and on-prem setups
+Self-hosted and privacy-friendly architectures with local control, secure networking, and minimal cloud dependency.
+
+### Local AI
+Experimenting with local inference, RAG pipelines, embedded AI, and practical LLM deployments.
+
+### Healthcare-oriented tools
+Software that combines technical engineering with healthcare domain understanding, especially where interoperability and clinical reality matter.
 
 ---
 
-## 📊 Statistiques GitHub  
+## Current focus
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LuuNa-JD&show_icons=true&theme=tokyonight)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuNa-JD&layout=compact&theme=tokyonight)
+- Rust systems programming
+- Embedded and hardware-oriented projects
+- Local AI tooling
+- Healthcare software
+- Building projects that connect software, machines, and real usage
+
+---
+
+## Selected technologies
+
+**Languages**  
+Rust · Python · C++ · JavaScript
+
+**Systems / Backend**  
+Axum · Tokio · WebSocket · MQTT · Linux
+
+**Infra / Edge**  
+Docker · Proxmox · Traefik · VPN · Self-hosting
+
+**Local AI**  
+Candle · Burn · HuggingFace · llama.cpp · GGUF · RAG · Embeddings
+
+**Health Tech**  
+HL7 · FHIR · DICOM
 
 ---
 
-## 📫 Me contacter  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien%20Denizot-blue?logo=linkedin)](https://www.linkedin.com/in/julien-denizot-dev/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-green?logo=firefox)](https://luuna-jd.github.io/portfolio/)  
-[![Email](https://img.shields.io/badge/Email-denizot.j%40hotmail.fr-red?logo=gmail)](mailto:denizot.j@hotmail.fr)
+## Featured work
+
+### Enuxia
+Systems engineering, edge infrastructure, local AI, and real-world deployments.
+
+### Orthotics decision-support software
+A project at the crossroads of clinical experience and software engineering.
+
+### FPV drone build
+A personal project that reflects what I enjoy most: understanding systems end-to-end, including hardware.
 
 ---
-✨ *Toujours ouvert aux collaborations, missions freelance et projets innovants en santé numérique.*
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuuNa-JD&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuuNa-JD&layout=compact&theme=tokyonight)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julien%20Denizot-blue?logo=linkedin)](https://www.linkedin.com/in/julien-denizot-dev/)
+[![Website](https://img.shields.io/badge/Website-enuxia.com-black?logo=firefox)](https://enuxia.com)
+[![Email](https://img.shields.io/badge/Email-denizot.j%40enuxia.com-red?logo=gmail)](mailto:denizot.j@enuxia.com)
+
+---
+
+> I like building systems that don’t stop at the screen.

@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./bannerv2.png)
 
 # Hi, I'm Julien
 
